@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jualns/Jualns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- Brazillian (Paraná / PR)<br>- Undergraduate in Applied Mathematics at [UFPR](https://www.ufpr.br/)<br>- Reseacher and Member of [Data Science Group, Machine Learning, and Optimization (CiDAMO)](http://cidamo.com.br)</p>
+<p align="left">
+- Brazillian (Paraná / PR)<br>
+- Undergraduate in Applied Mathematics at <a href="https://www.ufpr.br/">UFPR</a><br>
+- Reseacher and Member of <a href="http://cidamo.com.br">Data Science Group, Machine Learning, and Optimization (CiDAMO)</a>
+</p>
 
 ###
 
@@ -108,7 +110,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jualns/Jualns/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Jualns/Jualns/output/snake.svg" alt="Snake animation" /> --> 
 
 ###
 
