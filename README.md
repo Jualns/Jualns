@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 - Brazillian (Paraná / PR)<br>
-- Undergraduate in Applied Mathematics at <a href="https://www.ufpr.br/">UFPR</a><br>
+- Graduated in Applied Mathematics at <a href="https://www.ufpr.br/">UFPR</a><br>
 - Reseacher and Member of <a href="http://cidamo.com.br">Data Science Group, Machine Learning, and Optimization (CiDAMO)</a>
 </p>
 
